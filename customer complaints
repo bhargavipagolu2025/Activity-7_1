@@ -1,0 +1,44 @@
+Complaint ID,Submitted via,Date submitted,Date received,State,Product,Sub-product,Issue,Sub-issue,Company public response,Company response to consumer,Timely response?
+100001,Web,2024-01-02,2024-01-04,CA,Credit card,Rewards,Account issue,Late rewards posting,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100002,Phone,2024-01-03,2024-01-05,TX,Mortgage,Conventional loan,Loan servicing,Incorrect escrow calculation,Company did not provide public response.,Closed with monetary relief,No
+100003,Email,2024-01-06,2024-01-09,NY,Checking account,Overdraft,Overdraft fees,Multiple overdraft fees,Company did not provide public response.,Closed with explanation.,Yes
+100004,Web,2024-01-07,2024-01-09,FL,Auto loan,Lease,Lease terms dispute,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100005,Web,2024-01-10,2024-01-12,WA,Student loan,Private loan,Repayment issue,Incorrect payoff quote,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100006,Phone,2024-01-12,2024-01-14,NV,Credit card,Rewards,Card benefits not applied,None,Company did not provide public response.,Closed with monetary relief,No
+100007,Web,2024-01-13,2024-01-15,AZ,Checking account,Overdraft,Fee dispute,None,Company did not provide public response.,Closed with explanation.,Yes
+100008,Web,2024-01-14,2024-01-16,IL,Mortgage,Conventional loan,Escrow handling,Escrow shortage,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100009,Phone,2024-01-15,2024-01-18,OH,Auto loan,New loan,Excessive dealership fee,None,Company did not provide public response.,Closed with explanation.,Yes
+100010,Email,2024-01-15,2024-01-18,MI,Credit card,Balance transfer,Transfer not applied,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100011,Web,2024-01-17,2024-01-20,GA,Student loan,Federal loan,Income-driven repayment error,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100012,Phone,2024-01-18,2024-01-21,OR,Credit card,Rewards,Points missing,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100013,Web,2024-01-19,2024-01-21,TN,Mortgage,Conventional loan,Loan servicing,Payment not credited,None,Company did not provide public response.,Closed with monetary relief,No
+100014,Web,2024-01-20,2024-01-22,NC,Checking account,Overdraft,Unfair overdraft fees,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100015,Phone,2024-01-21,2024-01-24,CO,Auto loan,Lease,Lease buyout confusion,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100016,Email,2024-01-22,2024-01-25,VA,Credit card,Balance transfer,Delayed transfer,None,Company did not provide public response.,Closed with explanation.,Yes
+100017,Web,2024-01-24,2024-01-26,CA,Student loan,Private loan,Interest rate dispute,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100018,Phone,2024-01-25,2024-01-27,TX,Mortgage,Conventional loan,Loan servicing,Escrow miscalculation,None,Company believes complaint relates to third-party,Closed with monetary relief,No
+100019,Email,2024-01-26,2024-01-29,NY,Checking account,Overdraft,Incorrect overdraft fee,None,Company did not provide public response.,Closed with explanation.,Yes
+100020,Web,2024-01-27,2024-01-29,FL,Auto loan,New loan,Incorrect interest rate,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100021,Web,2024-01-28,2024-01-30,WA,Student loan,Private loan,Incorrect payoff,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100022,Phone,2024-01-29,2024-02-01,NV,Credit card,Rewards,Points calculation error,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100023,Web,2024-01-29,2024-02-01,AZ,Checking account,Overdraft,Account freeze,None,Company did not provide public response.,Closed with explanation.,Yes
+100024,Web,2024-01-30,2024-02-02,IL,Mortgage,Conventional loan,Loan servicing,Missing payments,None,Company did not provide public response.,Closed with monetary relief,No
+100025,Phone,2024-01-31,2024-02-03,OH,Auto loan,Lease,Lease extension confusion,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100026,Email,2024-02-01,2024-02-03,MI,Credit card,Balance transfer,Transfer not applied,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100027,Web,2024-02-02,2024-02-04,GA,Student loan,Private loan,Interest charge dispute,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100028,Phone,2024-02-03,2024-02-05,OR,Credit card,Rewards,Rewards points expired,None,Company did not provide public response.,Closed with explanation.,Yes
+100029,Web,2024-02-04,2024-02-06,TN,Mortgage,Conventional loan,Escrow shortage,None,Company did not provide public response.,Closed with monetary relief,No
+100030,Web,2024-02-05,2024-02-07,NC,Checking account,Overdraft,High overdraft fees,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100031,Phone,2024-02-06,2024-02-09,CO,Auto loan,New loan,Dealership fee dispute,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100032,Email,2024-02-07,2024-02-09,VA,Credit card,Balance transfer,Transfer delay,None,Company did not provide public response.,Closed with explanation.,Yes
+100033,Web,2024-02-08,2024-02-10,CA,Student loan,Private loan,Incorrect interest amount,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100034,Phone,2024-02-09,2024-02-11,TX,Mortgage,Conventional loan,Loan servicing error,None,Company believes complaint relates to third-party,Closed with monetary relief,No
+100035,Email,2024-02-10,2024-02-12,NY,Checking account,Overdraft,Excessive overdraft fees,None,Company did not provide public response.,Closed with explanation.,Yes
+100036,Web,2024-02-11,2024-02-13,FL,Auto loan,Lease,Lease fee confusion,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100037,Web,2024-02-12,2024-02-14,WA,Student loan,Private loan,Repayment terms dispute,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100038,Phone,2024-02-13,2024-02-15,NV,Credit card,Rewards,Points expiration dispute,None,Company believes complaint relates to third-party,Closed with explanation.,Yes
+100039,Web,2024-02-14,2024-02-16,AZ,Checking account,Overdraft,Overdraft dispute,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100040,Web,2024-02-15,2024-02-17,IL,Mortgage,Conventional loan,Loan servicing,Escrow discrepancy,None,Company did not provide public response.,Closed with monetary relief,No
+100041,Phone,2024-02-16,2024-02-18,OH,Auto loan,New loan,Incorrect monthly payment,None,Company believes complaint is the result of an isolated error.,Closed with explanation.,Yes
+100042,Email,2024-02-17,2024-02-19,MI,Credit card,Balance transfer,Balance transfer missing,None,Company did not provide public response.,Closed with explanation.,Yes
+100043,Web,2024-02-18,2024-02-20,GA,Student loan,Private loan,Interest calculation dispute,None,Company
