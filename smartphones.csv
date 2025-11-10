@@ -1,13 +1,33 @@
-brand,ram_storage,chipset,price,Market_Share
-Apple iPhone 15 Pro,8GB+256GB,A17 Pro,$999,24
-Samsung Galaxy S23 Ultra,12GB+256GB,Snapdragon 8 Gen2,$1199,22
-Xiaomi Mi 13 Pro,12GB+256GB,Snapdragon 8 Gen2,$899,14
-Transsion Infinix Zero Ultra,8GB+128GB,Dimensity 920,$499,10
-Oppo Reno 10 Pro,12GB+256GB,Snapdragon 778G,$489,8
-Vivo X90,12GB+256GB,Dimensity 9200,$699,7
-OnePlus 11,16GB+256GB,Snapdragon 8 Gen2,$799,4
-Realme GT Neo 5,12GB+256GB,Snapdragon 8+ Gen1,$599,3
-Huawei Mate 50 Pro,8GB+256GB,Kirin 9000,$999,3
-Motorola Edge 30 Pro,12GB+256GB,Snapdragon 8 Gen1,$599,2
-Nokia G50,6GB+128GB,Snapdragon 480,$249,1
-Others,-,-,-,2
+Store,Category,Sales
+Store A,Electronics,34000
+Store A,Home & Kitchen,28000
+Store A,Clothing,25000
+Store A,Grocery,20000
+Store A,Sports,18500
+Store A,Automotive,16000
+Store A,Toys,15000
+Store A,Beauty,13800
+Store A,Pet Supplies,13500
+Store A,Books,12000
+
+Store B,Electronics,31000
+Store B,Home & Kitchen,29500
+Store B,Clothing,26000
+Store B,Grocery,21000
+Store B,Sports,19000
+Store B,Automotive,17000
+Store B,Toys,15800
+Store B,Beauty,14000
+Store B,Pet Supplies,13800
+Store B,Books,12500
+
+Store C,Electronics,36000
+Store C,Home & Kitchen,30000
+Store C,Clothing,26500
+Store C,Grocery,22000
+Store C,Sports,20000
+Store C,Automotive,17500
+Store C,Toys,16200
+Store C,Beauty,14500
+Store C,Pet Supplies,14200
+Store C,Books,13000
