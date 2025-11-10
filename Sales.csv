@@ -1,33 +1,33 @@
 Store,Category,Sales
-Store A,Electronics,34000
-Store A,Home & Kitchen,28000
-Store A,Clothing,25000
-Store A,Grocery,20000
-Store A,Sports,18500
-Store A,Automotive,16000
-Store A,Toys,15000
-Store A,Beauty,13800
-Store A,Pet Supplies,13500
-Store A,Books,12000
+Store A,Electronics,39000
+Store A,Home & Kitchen,26500
+Store A,Clothing,24000
+Store A,Grocery,21500
+Store A,Sports,16000
+Store A,Automotive,14800
+Store A,Toys,17200
+Store A,Beauty,13200
+Store A,Pet Supplies,14000
+Store A,Books,11000
 
-Store B,Electronics,31000
-Store B,Home & Kitchen,29500
-Store B,Clothing,26000
-Store B,Grocery,21000
-Store B,Sports,19000
-Store B,Automotive,17000
-Store B,Toys,15800
-Store B,Beauty,14000
-Store B,Pet Supplies,13800
-Store B,Books,12500
+Store B,Electronics,33000
+Store B,Home & Kitchen,31000
+Store B,Clothing,27000
+Store B,Grocery,23000
+Store B,Sports,17500
+Store B,Automotive,16500
+Store B,Toys,15500
+Store B,Beauty,15000
+Store B,Pet Supplies,14600
+Store B,Books,12000
 
-Store C,Electronics,36000
-Store C,Home & Kitchen,30000
-Store C,Clothing,26500
-Store C,Grocery,22000
-Store C,Sports,20000
-Store C,Automotive,17500
-Store C,Toys,16200
-Store C,Beauty,14500
-Store C,Pet Supplies,14200
-Store C,Books,13000
+Store C,Electronics,42000
+Store C,Home & Kitchen,29500
+Store C,Clothing,28500
+Store C,Grocery,24000
+Store C,Sports,21000
+Store C,Automotive,18500
+Store C,Toys,16800
+Store C,Beauty,15200
+Store C,Pet Supplies,14900
+Store C,Books,13500
